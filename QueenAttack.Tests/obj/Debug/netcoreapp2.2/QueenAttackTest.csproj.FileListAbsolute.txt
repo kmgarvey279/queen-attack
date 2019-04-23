@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/obj/Debug/netcoreapp2.2/QueenAttackTest.csprojAssemblyReference.cache
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/obj/Debug/netcoreapp2.2/QueenAttackTest.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/obj/Debug/netcoreapp2.2/QueenAttackTest.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/obj/Debug/netcoreapp2.2/QueenAttackTest.AssemblyInfo.cs
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/QueenAttackTest.deps.json
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/QueenAttackTest.runtimeconfig.json
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/QueenAttackTest.runtimeconfig.dev.json
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/QueenAttackTest.dll
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/QueenAttackTest.pdb
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/QueenAttack.dll
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/bin/Debug/netcoreapp2.2/QueenAttack.pdb
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/obj/Debug/netcoreapp2.2/QueenAttackTest.csproj.CopyComplete
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/obj/Debug/netcoreapp2.2/QueenAttackTest.dll
+/Users/Guest/Desktop/queenAttack/QueenAttack.Tests/obj/Debug/netcoreapp2.2/QueenAttackTest.pdb
